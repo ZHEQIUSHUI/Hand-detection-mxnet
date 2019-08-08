@@ -12,3 +12,9 @@ the json file and 'ssd_512_mobilenet1.0_custom-0000.params'can run in mxnet modu
 ## Example
 
 ![Example](https://github.com/ZHEQIUSHUI/Hand-detection-mxnet/blob/master/example.png)
+
+
+## Cpp demo
+
+
+contact me if you need.
