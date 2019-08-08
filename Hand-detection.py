@@ -4,7 +4,7 @@ from collections import namedtuple
 import cv2
 
 Batch = namedtuple('Batch', ['data'])
-video = cv2.VideoCapture(0)  # ('E:\\Code\\retinaface\\x64\\Release\\multiple_faces.avi')
+video = cv2.VideoCapture(0) 
 ok, img = video.read()
 short = 300    #you can change short size what you need
 mult_base = 1
